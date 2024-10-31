@@ -33,7 +33,6 @@
     "prerender": "ng run password-strength:prerender"
   },
   "dependencies": {
-    "@angular-material-extensions/pages": "^4.0.0",
     "@angular/animations": "^18.2.10",
     "@angular/cdk": "^17.2.2",
     "@angular/common": "^18.2.10",
