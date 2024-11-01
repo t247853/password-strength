@@ -14,6 +14,7 @@ import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
 import {MatSnackBarModule} from '@angular/material/snack-bar';
 import {MatPasswordStrengthModule} from "../../module/mat-password-strength.module";
+// import {MatPagesModule} from "@angular-material-extensions/pages";
 
 
 /**
