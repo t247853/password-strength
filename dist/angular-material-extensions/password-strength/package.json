@@ -1,7 +1,7 @@
 {
   "name": "@angular-material-extensions/password-strength",
   "description": "Material password strength meter to indicate how secure is the provided password",
-  "version": "16.0.0",
+  "version": "18.0.0",
   "homepage": "https://github.com/angular-material-extensions/password-strength",
   "author": {
     "name": "anthonynahas",
@@ -29,14 +29,14 @@
     "url": "https://github.com/angular-material-extensions/password-strength/issues"
   },
   "peerDependencies": {
-    "@angular/common": "^16.x",
-    "@angular/core": "^16.x",
-    "@angular/forms": "^16.x",
-    "@angular/cdk": "^16.x",
-    "@angular/material": "^16.x"
+    "@angular/common": "^18.x",
+    "@angular/core": "^18.x",
+    "@angular/forms": "^18.x",
+    "@angular/material": "^16.x",
+    "@angular/cdk": "^18.x"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=20"
   },
   "release-it": {
     "github": {
