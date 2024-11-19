@@ -1,7 +1,6 @@
 import {Component, OnInit, ViewChild} from '@angular/core';
 import {MatPasswordStrengthComponent} from '@angular-material-extensions/password-strength';
 import {UntypedFormControl, UntypedFormGroup} from '@angular/forms';
-import {MatPasswordStrengthComponent} from "../module/component/mat-password-strength/mat-password-strength.component";
 
 @Component({
   selector: 'app-root',
